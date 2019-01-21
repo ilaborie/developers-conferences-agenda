@@ -78,7 +78,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
-* 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
+* 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 
 ### July
 
